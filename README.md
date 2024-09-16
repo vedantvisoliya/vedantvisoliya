@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @vedantvisoliya
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning c++, python
 - 💞️ I’m looking to collaborate on some basic projects
 - 📫 How to reach me - @heyitsvedu (instagram)
-- 😄 Pronouns: vedu
+- 😄 Nickname: vedu
 - ⚡ Fun fact: i am a student.
 
 <!---
