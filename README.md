@@ -14,7 +14,7 @@
 
  📖 I'm a **computer science student**
  
- 🌱 I’m currently learning **Reactjs, Flutter** 
+ 🌱 I’m currently learning **Flutter** 
  
  </div>
  
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,react,flutter,vscode,visualstudio,atom" />
+    <img src="https://skillicons.dev/icons?i=git,github,flutter,vscode,visualstudio,atom" />
     <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,cs,dart" /><br>
 </div>
 
