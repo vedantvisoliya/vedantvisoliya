@@ -12,7 +12,7 @@
  
  📖 I'm a **computer science student**
  
- 🌱 I’m currently learning **Flutter** 
+ 🌱 I’m currently learning **Flutter**, **Web Dev** 
  
  </div>
  
