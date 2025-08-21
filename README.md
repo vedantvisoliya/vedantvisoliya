@@ -30,11 +30,53 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+<h2 align="center">⚒️ Skills & Technologies ⚒️</h2>
+
+<h3 align="left">🛠️ Languages</h3>
+
+<p align="left">
+    <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" width=70/>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" width=90/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width=110/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart" width=70/>
+</p>
+
+<h3 align="left">🔧 Frameworks & Libraries</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" width=80/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" width=85/>
+  <img src="https://img.shields.io/badge/Raylib-000000?logo=raylib&logoColor=white" alt="Raylib" width=80/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" width=80/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" width=80/>
+</p>
+
+<h3 align="left">⚙️ Tools</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code" width=70/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=white" alt="Visual Studio" width=105/>
+  <img src="https://img.shields.io/badge/Cursor-000000?logoColor=white" alt="Cursor" width=60/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" alt="Android Studio" width=130/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" width=55/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" width=95/>
+</p>
+
+<h3 align="left">💾 Databases</h3>
+
+<p> 
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" width=90/> 
+</p>
+
+<h3 align="left">🚀 Hosting</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" alt="Netlify" width=80/>
+  <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" width=85/>
+</p>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,flutter,vscode,visualstudio,atom" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,cs,dart" /><br>
+    
 </div>
 
 <br/>
