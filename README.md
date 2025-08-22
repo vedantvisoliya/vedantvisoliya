@@ -73,6 +73,7 @@
 <p>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white" alt="Netlify" width=80/>
   <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white" alt="Vercel" width=85/>
+  <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render" width="85"/>
 </p>
 
 <div align="center">
