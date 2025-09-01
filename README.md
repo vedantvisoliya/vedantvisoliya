@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">A passionate tech enthusiast from India ɪɴ</h3>
-
+<h3 align="center">Freshman @GL BAJAJ (Gr.Noida) CSE | Web Dev</h3>
 <br/>
 
 <div align="center">
