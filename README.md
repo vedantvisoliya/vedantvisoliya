@@ -60,6 +60,7 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=white" alt="Android Studio" width=130/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" width=55/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" width=95/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" width=95>
 </p>
 
 <h3 align="left">💾 Databases</h3>
