@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">A passionate tech enthusiast from India ɪɴ</h3>
-<h3 align="center">Freshman @GL BAJAJ (Gr.Noida) CSE | Web Dev</h3>
+<h3 align="center">Freshman @GL BAJAJ (Gr.Noida) CSE | App Dev</h3>
 <br/>
 
 <div align="center">
@@ -12,7 +12,9 @@
  
  📖 I'm a **computer science student**
  
- 🌱 I’m currently learning **Flutter**, **Web Dev** 
+ 🌱 I’m currently learning **Flutter**, **App Dev** 
+
+ ⚡Flutter frontend developer at a startup, bridging UI with backend systems.
  
  </div>
  
