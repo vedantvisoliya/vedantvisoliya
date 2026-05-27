@@ -12,9 +12,9 @@
  
  📖 I'm a **computer science student**
  
- 🌱 I’m currently learning **Flutter**, **App Dev** 
+ 🌱 I’m currently learning **Flutter**, **App Dev**, **Web Dev**
 
- ⚡Flutter frontend developer at a startup, bridging UI with backend systems.
+ ⚡Flutter frontend developer at <a href="https://play.google.com/store/search?q=aayo%20app&c=apps&hl=en">AAYO APP</a>, bridging UI with backend systems.
  
  </div>
  
@@ -51,6 +51,8 @@
   <img src="https://img.shields.io/badge/Raylib-000000?logo=raylib&logoColor=white" alt="Raylib" width=80/>
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" width=80/>
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" width=80/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" width=80 height=27/>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk.com" width=80/>
 </p>
 
 <h3 align="left">⚙️ Tools</h3>
