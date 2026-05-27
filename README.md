@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Flutter**, **App Dev**, **Web Dev**
 
- ⚡Flutter frontend developer at <a href="https://play.google.com/store/search?q=aayo%20app&c=apps&hl=en">AAYO APP</a>, bridging UI with backend systems.
+ ⚡Flutter frontend developer at <a href="https://play.google.com/store/search?q=aayo%20app&c=apps&hl=en" style="text-decoration: none;">AAYO APP</a>, bridging UI with backend systems.
  
  </div>
  
