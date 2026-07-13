@@ -41,6 +41,7 @@
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" width=90/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" width=110/>
     <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart" width=70/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go" height=25/>
 </p>
 
 <h3 align="left">🔧 Frameworks & Libraries</h3>
