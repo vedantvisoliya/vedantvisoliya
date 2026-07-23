@@ -71,7 +71,8 @@
 <h3 align="left">💾 Databases</h3>
 
 <p> 
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" width=90/> 
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" width=90/>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height=25 width=90>
 </p>
 
 <h3 align="left">🚀 Hosting</h3>
